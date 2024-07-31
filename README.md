@@ -1,0 +1,1 @@
+# vue-cicd-demo-argocd
